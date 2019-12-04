@@ -12,7 +12,7 @@
                 </ul>
             </div>
             <div class="card-action">
-                <NewMessage :name="name" /> // name binded, refered name from line 26
+                <NewMessage :name="name" />
             </div>
         </div>
     </div>
